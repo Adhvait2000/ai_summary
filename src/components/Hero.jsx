@@ -19,11 +19,11 @@ const Hero = () => {
       </nav>
       
       <h1 className='head_text'>
-        Summarize Articles with <br className='max-md:hidden'/>
-        <span className='orange_gradient'>OpenAI GPT-4</span>
+        <span className='orange_gradient'>Summarize Articles  <br className='max-md:hidden'/></span>
+        <span className='black_gradient'>with Ease</span>
       </h1>
       <h2 className='desc'>
-          Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
+          Simplify your reading with <b>SummarEasee (or Sumz for short)</b>, an article summarizer that transforms lengthy articles into clear and concise summaries!!
       </h2>
 
     </header>
